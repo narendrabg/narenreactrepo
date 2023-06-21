@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  margin: 0; 
+}
+.App {
+  text-align: center;
+}
+.increment {
+  margin: 2px;
+  padding: 2px;
+  border-radius: 1px;
+  width: 80px;
+  color: white;
+  background-color: #008000;
+}
+.decrement {
+  margin: 2px;
+  padding: 2px;
+  border-radius: 1px;
+  width: 80px;
+  color: white;
+  background-color: red;
+}
